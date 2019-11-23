@@ -1,0 +1,16 @@
+.Nav {
+   /* position:fixed; */
+   /* grid-column-start: auto; */
+   grid-column: span 3;
+   margin-top: 0px;
+   background-color: lightblue;
+   padding: 10px;
+
+}
+
+#buttons {
+   display: flex;
+   flex-direction: row-reverse;
+   /* justify-content: right; */
+
+}
